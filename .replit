@@ -1,4 +1,4 @@
-run = "dotnet"
+run = "sh main.sh"
 
 [nix]
 channel = "stable-22_11"

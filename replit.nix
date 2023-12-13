@@ -1,5 +1,6 @@
 { pkgs }: {
     deps = [
-      pkgs.cowsay
+      pkgs.dotnet-sdk_7
+      
     ];
 }
